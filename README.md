@@ -8,7 +8,7 @@ Adicionei duas funcionalidades na versão ao vivo deste algoritmo:\
 
 Toda interação via terminal foi programada por mim.\
 Neste gif mostro a funcionalidade 1:\
-![]()\
+![](https://github.com/perinm/face_recognition/blob/new_branch/gifs_lucas/Adicionar_e_Consulta_rostos.gif)\
 \
 Neste gif mostro a funcionalidade 2:\
-\
+![](https://github.com/perinm/face_recognition/blob/new_branch/gifs_lucas/Salvando_rostos.gif)\   
